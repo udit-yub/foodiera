@@ -6,9 +6,7 @@ import Home from './pages/home';
 import Contact from './pages/contact';
 import Cart from './pages/cart';
 import Login from './pages/login';
-import Orders from './pages/orders';
-import Placeorder from './pages/placeorder';
-import Verify from './pages/verify';
+
 
 const App = () => {
   return (
@@ -21,9 +19,6 @@ const App = () => {
           <Route path="/contact" element={<Contact />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/login" element={<Login />} />
-          <Route path="/orders" element={<Orders />} />
-          <Route path="/placeorder" element={<Placeorder />} />
-          <Route path="/verify" element={<Verify />} />
         </Routes>
       </main>
     
