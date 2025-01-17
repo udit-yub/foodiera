@@ -3,9 +3,9 @@ import { Routes, Route } from 'react-router-dom';
 import Menu from './pages/Menu';
 import Header from './components/header';
 import Home from './pages/home';
-import Contact from './pages/contact';
-import Cart from './pages/cart';
-import Login from './pages/login';
+import Contact from './pages/Contact';
+import Cart from './pages/Cart';
+import Login from './pages/Login';
 
 
 const App = () => {
