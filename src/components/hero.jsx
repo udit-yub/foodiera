@@ -26,7 +26,7 @@ const Hero = () => {
         </div>
         <div className='max-xs:flex-col flex gap-2'>
         <NavLink to={'/menu'} className={'btn-white flexCenter gap-x-2'}><LuPizza />Shop Now</NavLink>
-        <NavLink to={''} className={'btn-white flexCenter gap-x-2'}><MdOutlineShareLocation /> order</NavLink>
+        <NavLink to={'/'} className={'btn-white flexCenter gap-x-2'}><MdOutlineShareLocation /> order</NavLink>
         </div>
       </div>
     </div>

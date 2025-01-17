@@ -42,8 +42,7 @@ const Header = () => {
         </div>
         {token && <>
         <ul className='bg-white shadow-sm p-2 w-32 ring-1 ring-slate-900/15 rounded absolute right-0 top-10 hidden group-hover:xl:flex flex-col'>
-          <li onClick={()=>navigate('/orders')} className='flexBetween cursor-pointer'>orders <TbArrowNarrowRight className='opacity-50 text-[19px]'/></li>
-          <hr className='my-2'/>
+          
           <li className='flexBetween cursor-pointer'>logout <TbArrowNarrowRight className='opacity-50 text-[19px]'/></li>
         </ul>
         </>}
