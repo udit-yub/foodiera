@@ -12,7 +12,7 @@ const Hero = () => {
     <section className='mx-auto max-w-[1440px]'>
     <div className='realtive bg-hero bg-cover bg-center bg-no-repeat h-[811px] w-full'>
       <div className='max-padd-container relative top-36 sm:top-72 text-white'>
-        <h1 className='h1 max-w-[792px] capitalize'>Locally Produced Deilevered Direct <span className='text-secondary'>To Your Door</span></h1>
+        <h1 className='h1 max-w-[792px] capitalize'>Locally Produced Delivered Direct <span className='text-secondary'>To Your Door</span></h1>
         <p className='text-white regular-16 mt-6 max-w-[594px]'>
           Welcome to our food haven, where taste meets quality! savor dishes crafted with passion, fresh incredients, and unmatched care.From quick bites to hearty meals, we bring flavors that delight. let us turn you hunger into happiness, one bite at a time!
         </p>
