@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react'
 import { Link, useNavigate, } from 'react-router-dom'
 import logo from '../assets/assets/logo.svg'
-import Navbar from './navbar'
+import Navbar from './Navbar'
 import {CgMenuLeft} from 'react-icons/cg'
 import {TbArrowNarrowRight, TbUserCircle} from 'react-icons/tb'
 import {RiUserLine, RiShoppingBag4Line} from 'react-icons/ri'
